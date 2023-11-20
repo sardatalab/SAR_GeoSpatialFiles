@@ -3,6 +3,7 @@ This repository has shapefiles for the SAR region
 
 The information is taken from multiple sources such as:
 * IPUMS: https://international.ipums.org/international/gis_yrspecific_2nd.shtml
+* EarthWorks (Standford University): https://earthworks.stanford.edu/catalog/stanford-sj771hp4635
 
 
 ## Description
