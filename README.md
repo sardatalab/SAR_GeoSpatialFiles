@@ -11,7 +11,6 @@ In this repository, we have the following years available:
 
 | Year    | Afghanistan | Bangladesh | Bhutan | India  | Maldives | Nepal  | Pakistan | Sri Lanka | 
 | :----   | :----:      | :----:     | :----: | :----: |  :----:  | :----: | :----:   | :----:    | 
-
 | 1973    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
 | 1981    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
 | 1987    |     --      | --          | --    | A      | --       | --     | --       |  --  | 
