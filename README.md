@@ -17,8 +17,13 @@ In this repository, we have the following years available:
 | 2010    |     --      | --          | --  | --   | --  | --   | --  |  --  | 
 | 2011    |     --      | A          | --  | --   | --  | --   | --  |  --  | 
 | 2016    |     --      | --          | --  | --   | --  | --   | --  |  --  | 
-| 2022    |     --      | --          | A  | --   | --  | --   | --  |  --  | 
+| 2022    |     --      | --          | --  | --   | --  | --   | --  |  --  | 
 
+### Geographic level:
+Bangladesh:  Zilla
+India:       District
+Nepal:       District
+Pakistan:    Administrative division
 
 ## Help
 For any questions, please get in contact with the SAR Statistical Team at: sardatalab@worldbank.org
