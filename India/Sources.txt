@@ -1,1 +1,1 @@
-India  1973,1998, 2001, 2004, 2009: https://international.ipums.org/international/gis_harmonized_2nd.shtml
+India  1973,1993, 1999, 2004, 2009: https://international.ipums.org/international/gis_harmonized_2nd.shtml
