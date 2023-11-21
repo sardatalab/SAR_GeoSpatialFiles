@@ -19,7 +19,7 @@ In this repository, we have the following years available:
 | India        |   --   | --    | A    | --      | A         | --     | A       |  --      |  A     | A      | --     |--      | --     | -- |
 | Maldives     |   --   | --    | --    | --      | --       | --     | --       |  --     |  --    | --     | --     |--      | A      | -- |
 | Nepal        |   --   | --    | --    | --      | --       | --     | --       |  A      |  --    |--      |A       |--      | --     | -- |
-| Pakistan     |   A    | A     | --    | --      | --       | A     | --       |  --      |  --    |--      |--      |A       | --     | -- |
+| Pakistan     |   A    | A     | --    | --      | --       | A     | --       |  --      |  --    |--      |--      |A       | A      | -- |
 | Sri Lanka    |   --   | --    | --    | --      | --       | --     | --       |  --     |  --    |--      |--      |--      | A      | -- |
 
 ### Geographic level:
