@@ -20,7 +20,7 @@ In this repository, we have the following years available:
 | Maldives     |   --   | --    | --    | --      | --       | --     | --       |  --     |  --    | --     | --     |--       | -- |
 | Nepal        |   --   | --    | --    | --      | --       | --     | --       |  A      |  --    |--      |A       |--       | -- |
 | Pakistan     |   A    | A     | --    | --      | --       | A     | --       |  --      |  --    |--      |--      |--       | -- |
-| Sri Lanka    |   --   | --    | --    | --      | --       | --     | --       |  --     |  --    |--      |--      |--        | -- |
+| Sri Lanka    |   --   | --    | --    | --      | --       | --     | --       |  --     |  --    |--      |--      |A        | -- |
 
 ### Geographic level:
 Afghanistan: District
