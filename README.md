@@ -11,23 +11,20 @@ Here you can find historic shapefiles for the South Asia Regional (SAR).
 In this repository, we have the following years available:
 
 
-| Country      | 1973   | 1981        | 1987  | 1991   | 1993 | Nepal  | Pakistan | Sri Lanka | 
+| Country      | 1973   | 1981        | 1987  | 1991   | 1993      | 1998  | 1999 | Sri Lanka | 
 | :----        | :----: | :----:      | :----: | :----:  |  :----:  | :----: | :----:   | :----:    | 
 | Afghanistan  |   --   | --          | --    | --      | --       | --     | --       |  --  | 
 | Bangladesh   |   --   | --          | --    | A      | --       | --     | --       |  --  | 
 | Bhutan       |   --   | --          | --    | --      | --       | --     | --       |  --  | 
-| India        |   --   | --          | A    | --      | --       | --     | --       |  --  | 
+| India        |   --   | --          | A    | --      | A         | --     | A       |  --  | 
 | Maldives     |   --   | --          | --    | --      | --       | --     | --       |  --  | 
 | Nepal        |   --   | --          | --    | --      | --       | --     | --       |  --  | 
-| Pakistan     |   A    | A           | --    | --      | --       | --     | --       |  --  | 
+| Pakistan     |   A    | A           | --    | --      | --       | 1998     | --       |  --  | 
 | Sri Lanka    |   --   | --          | --    | --      | --       | --     | --       |  --  | 
 
 
 | Year    | Afghanistan | Bangladesh | Bhutan | India  | Maldives | Nepal  | Pakistan | Sri Lanka | 
 | :----   | :----:      | :----:     | :----: | :----: |  :----:  | :----: | :----:   | :----:    | 
-| 1993    |     --      | --         | --  | A   | --  | --   | --  |  --  |
-| 1998    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| 1999    |     --      | --         | --  | A   | --  | --   | --  |  --  |
 | 2001    |     --      | A          | --  | --   | --  | A   | --  |  --  |
 | 2004    |     --      | --         | --  | A   | --  | --   | --  |  --  |
 | 2005    |     --      | --          | --  | --   | --  | --   | --  |  --  | 
