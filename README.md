@@ -16,7 +16,7 @@ In this repository, we have the following years available:
 | Afghanistan  |   --   | --          | --    | --      | --       | --     | --       | --       | -- | -- |A | -- |
 | Bangladesh   |   --   | --          | --    | A      | --       | --     | --       |  --      | -- | -- | A| A |
 | Bhutan       |   --   | --          | --    | --      | --       | --     | --       |  --  |  -- | -- |-- |
-| India        |   --   | --          | A    | --      | A         | --     | A       |  --  |  A | A | A|-- |
+| India        |   --   | --          | A    | --      | A         | --     | A       |  --  |  A | A | -- |-- |
 | Maldives     |   --   | --          | --    | --      | --       | --     | --       |  --  |  -- | -- | -- |-- |
 | Nepal        |   --   | --          | --    | --      | --       | --     | --       |  A  |  -- |-- |-- |-- |
 | Pakistan     |   A    | A           | --    | --      | --       | A     | --       |  --  |  -- |-- |-- |-- |
