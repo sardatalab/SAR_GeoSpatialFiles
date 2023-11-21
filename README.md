@@ -24,11 +24,12 @@ In this repository, we have the following years available:
 | 2005    |     --      | --          | --  | --   | --  | --   | --  |  --  | 
 | 2009    |     --      | --         | --  | A   | --  | --   | --  |  --  |
 | 2010    |     --      | --          | --  | --   | --  | --   | --  |  --  | 
-| 2011    |     --      | A          | --  | --   | --  | A   | --  |  --  | 
+| 2011    |     A      | A          | --  | --   | --  | A   | --  |  --  | 
 | 2016    |     --      | A          | --  | --   | --  | --   | --  |  --  | 
 | 2022    |     --      | --          | --  | --   | --  | --   | --  |  --  | 
 
 ### Geographic level:
+Afghanistan: District
 Bangladesh:  Zilla
 India:       District
 Nepal:       District
