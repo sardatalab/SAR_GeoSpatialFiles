@@ -10,6 +10,19 @@ The information is taken from multiple sources such as:
 Here you can find historic shapefiles for the South Asia Regional (SAR). 
 In this repository, we have the following years available:
 
+
+| Country    | Afghanistan | Bangladesh | Bhutan | India  | Maldives | Nepal  | Pakistan | Sri Lanka | 
+| :----        | :----:      | :----:     | :----: | :----: |  :----:  | :----: | :----:   | :----:    | 
+| Afghanistan    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
+| Bangladesh    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
+| Bhutan    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
+| India    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
+| Maldives    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
+| Nepal    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
+| Pakistan    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
+| Sri Lanka    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
+
+
 | Year    | Afghanistan | Bangladesh | Bhutan | India  | Maldives | Nepal  | Pakistan | Sri Lanka | 
 | :----   | :----:      | :----:     | :----: | :----: |  :----:  | :----: | :----:   | :----:    | 
 | 1973    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
