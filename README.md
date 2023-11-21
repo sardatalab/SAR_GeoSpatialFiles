@@ -11,24 +11,20 @@ Here you can find historic shapefiles for the South Asia Regional (SAR).
 In this repository, we have the following years available:
 
 
-| Country    | Afghanistan | Bangladesh | Bhutan | India  | Maldives | Nepal  | Pakistan | Sri Lanka | 
-| :----        | :----:      | :----:     | :----: | :----: |  :----:  | :----: | :----:   | :----:    | 
-| Afghanistan    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| Bangladesh    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| Bhutan    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| India    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| Maldives    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| Nepal    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| Pakistan    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| Sri Lanka    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
+| Country      | 1973   | 1981        | 1987  | 1991   | 1993 | Nepal  | Pakistan | Sri Lanka | 
+| :----        | :----: | :----:      | :----: | :----:  |  :----:  | :----: | :----:   | :----:    | 
+| Afghanistan  |   --   | --          | --    | --      | --       | --     | --       |  --  | 
+| Bangladesh   |   --   | --          | --    | A      | --       | --     | --       |  --  | 
+| Bhutan       |   --   | --          | --    | --      | --       | --     | --       |  --  | 
+| India        |   --   | --          | A    | --      | --       | --     | --       |  --  | 
+| Maldives     |   --   | --          | --    | --      | --       | --     | --       |  --  | 
+| Nepal        |   --   | --          | --    | --      | --       | --     | --       |  --  | 
+| Pakistan     |   A    | A           | --    | --      | --       | --     | --       |  --  | 
+| Sri Lanka    |   --   | --          | --    | --      | --       | --     | --       |  --  | 
 
 
 | Year    | Afghanistan | Bangladesh | Bhutan | India  | Maldives | Nepal  | Pakistan | Sri Lanka | 
 | :----   | :----:      | :----:     | :----: | :----: |  :----:  | :----: | :----:   | :----:    | 
-| 1973    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| 1981    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
-| 1987    |     --      | --          | --    | A      | --       | --     | --       |  --  | 
-| 1991    |     --      | A          | --  | --   | --  | --   | --  |  --  | 
 | 1993    |     --      | --         | --  | A   | --  | --   | --  |  --  |
 | 1998    |     --      | --          | --    | --      | --       | --     | A       |  --  | 
 | 1999    |     --      | --         | --  | A   | --  | --   | --  |  --  |
